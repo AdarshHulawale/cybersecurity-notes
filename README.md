@@ -1,6 +1,19 @@
 # Cybersecurity Learning Journey 🔐
 
+## 📌 Table of Contents
+- [About Me](#-about-me)
+- [Goals](#goals)
+- [What I'm Learning](#what-im-learning)
+- [Platforms Used](#platforms-used)
+- [Progress](#progress)
+- [Disclaimer](#disclaimer)
+
 This repository contains my daily notes and hands-on practice while learning cybersecurity fundamentals.
+
+## 👤 About Me
+I am a beginner cybersecurity learner working toward my first cybersecurity internship.  
+Currently focused on building strong fundamentals through hands-on practice and labs.
+
 
 ## Goals
 - Build strong cybersecurity fundamentals
