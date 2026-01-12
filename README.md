@@ -32,7 +32,8 @@ Currently focused on building strong fundamentals through hands-on practice and 
 - Kali Linux
 
 ## Progress
-- **2025-01-09** Day 1: Linux Fundamentals Part 1 ✔
+- **2026-01-09** Day 1: Linux Fundamentals 
+- **2026-01-12** Day 2: Linux Fundamentals 
 
 ## Disclaimer
 All practice is done in legal lab environments for educational purposes only.
