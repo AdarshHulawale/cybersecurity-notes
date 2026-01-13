@@ -10,10 +10,22 @@
 
 This repository contains my daily notes and hands-on practice while learning cybersecurity fundamentals.
 
+## 🔗 GitHub Profile
+https://github.com/AdarshHulawale
+
+## 📁 Repository Structure
+- linux/ → Linux fundamentals and command-line practice
+- pre-security/ → Cybersecurity concepts and foundations
+- networking/ → Networking fundamentals and LAN concepts
+- screenshots/ → Hands-on lab evidence (selective)
+
 ## 👤 About Me
 I am a beginner cybersecurity learner working toward my first cybersecurity internship.  
 Currently focused on building strong fundamentals through hands-on practice and labs.
 
+## 🏅 Badges Earned
+- Networking Fundamentals – TryHackMe  
+- cat.txt (Linux Basics) – TryHackMe
 
 ## Goals
 - Build strong cybersecurity fundamentals
@@ -33,7 +45,9 @@ Currently focused on building strong fundamentals through hands-on practice and 
 
 ## Progress
 - **2026-01-09** Day 1: Linux Fundamentals 
-- **2026-01-12** Day 2: Linux Fundamentals 
+- **2026-01-12** Day 2: Linux Fundamentals
+- **2026-01-13** Day 3: Pre-Security(cyber security basics)
+- **2026-01-13** Day 4: Networking Fundamentals
 
 ## Disclaimer
 All practice is done in legal lab environments for educational purposes only.
