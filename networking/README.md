@@ -5,8 +5,6 @@ This folder contains my notes and progress from completing the Networking Fundam
 ## 🏅 Badge Earned
 Networking Nerd – TryHackMe
 
-![Networking Nerd Badge](screenshots/networking-nerd-badge.png)
-
 🔗 Badge link:
 https://tryhackme.com/hulawaleadarsh007/badges/network-fundamentals
 
