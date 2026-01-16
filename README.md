@@ -26,6 +26,8 @@ Currently focused on building strong fundamentals through hands-on practice and 
 ## 🏅 Badges Earned
 - Networking Fundamentals – TryHackMe  
 - cat.txt (Linux Basics) – TryHackMe
+- Webber badge - TryHackMe
+- WorldWideWeb badge - TryHackMe
 
 ## Goals
 - Build strong cybersecurity fundamentals
@@ -42,12 +44,6 @@ Currently focused on building strong fundamentals through hands-on practice and 
 - TryHackMe
 - PortSwigger Web Security Academy
 - Kali Linux
-
-## Progress
-- **2026-01-09** Day 1: Linux Fundamentals 
-- **2026-01-12** Day 2: Linux Fundamentals
-- **2026-01-13** Day 3: Pre-Security(cyber security basics)
-- **2026-01-13** Day 4: Networking Fundamentals
 
 ## Disclaimer
 All practice is done in legal lab environments for educational purposes only.
