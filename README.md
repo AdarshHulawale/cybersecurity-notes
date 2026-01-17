@@ -16,6 +16,9 @@ https://github.com/AdarshHulawale
 I am a beginner cybersecurity learner working toward my first cybersecurity internship.  
 Currently focused on building strong fundamentals through hands-on practice and labs.
 
+📜 Certifications:
+- TryHackMe Pre-Security Learning Path (2025)
+
 ## 🏅 Badges Earned
 - Networking Fundamentals – TryHackMe  
 - cat.txt (Linux Basics) – TryHackMe
