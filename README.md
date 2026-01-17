@@ -1,12 +1,5 @@
 # Cybersecurity Learning Journey 🔐
 
-## 📌 Table of Contents
-- [About Me](#-about-me)
-- [Goals](#goals)
-- [What I'm Learning](#what-im-learning)
-- [Platforms Used](#platforms-used)
-- [Progress](#progress)
-- [Disclaimer](#disclaimer)
 
 This repository contains my daily notes and hands-on practice while learning cybersecurity fundamentals.
 
@@ -39,6 +32,12 @@ Currently focused on building strong fundamentals through hands-on practice and 
 - Networking basics
 - Web security (OWASP Top 10)
 - Security tools like Nmap and Burp Suite
+
+### ✅ Pre Security (Completed)
+- Linux Fundamentals 1–3
+- Networking Fundamentals
+- Web Fundamentals
+- Windows Fundamentals 1–3
 
 ## Platforms Used
 - TryHackMe
